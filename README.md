@@ -2,16 +2,19 @@
 
 使用手冊 : 
 For 網站主架構 
+
 ../index/index.php->包括search的方式和首頁的基本架構
 ../index/preview.js->index.php中會用到的script，作用是生成影片的資料，包括影片截圖、影片長度、觀看次數、影片預覽等。
 ../index/vidpic.png->影片沒有截圖時的預設圖片
 
 For 會員制 
+
 ../member/upload->用來裝會員資料中會員的頭貼(.jpg/.png)
 ../member/image->m/儲存用在會員頁面中的背景及css會用的各種圖片
 ../member/
 
 For 影片播放相關
+
 
 安裝手冊 :
 Step1 : https://github.com/garystone1/cornhub 輸入該網址即可進入github下載程式碼
