@@ -1,6 +1,7 @@
 # cornhub
 
 使用手冊 : 
+
 For 網站主架構 
 
 ../index/index.php->包括search的方式和首頁的基本架構
