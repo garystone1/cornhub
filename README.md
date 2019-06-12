@@ -17,8 +17,12 @@ For 會員制
 For 影片播放相關
 
 
+
+
 安裝手冊 :
 Step1 : https://github.com/garystone1/cornhub 輸入該網址即可進入github下載程式碼
+
+
 
 MIT License
 
