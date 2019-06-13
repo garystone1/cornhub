@@ -1,10 +1,6 @@
 # cornhub
 
 使用手冊 : 
-Step1: 網站中所有的 code 下載下來
-Step2: 創一個資料夾把檔案都放在裡面
-Step3: 把所有檔案放在下方所指示的資料夾中
-Step4: Have Fun
 
 For 網站主架構 
 
@@ -51,7 +47,7 @@ Step1 : https://github.com/garystone1/cornhub 輸入該網址即可進入github�
 石詠太: Searching、Google-log-in(失敗，因為網路驗證沒過，沒辦法通過google驗證，因為 https://softwarestudio.2y.idv.tw 
 並非我所擁有的網域，因此網域驗證沒過，資料存取遭拒)、database管理、輸出文件(ReadMe)
 
-景璞:
+景璞:影片頁面設計、影片播放器、留言板、廣告、上傳
 
 沈芷萱:
 
