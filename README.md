@@ -48,18 +48,6 @@ Step4: 把所有檔案放在下方所指示的資料夾中
 Step5: Have Fun
 
 ---
-分工 :
-石詠太: Searching、Google-log-in(失敗，因為網路驗證沒過，沒辦法通過google驗證，因為 https://softwarestudio.2y.idv.tw 
-並非我所擁有的網域，因此網域驗證沒過，資料存取遭拒)、database管理、輸出文件(ReadMe)
-
-景璞:
-
-沈芷萱:
-
-林柏毅:
-
-
-
 MIT License
 
 Copyright (c) 2019 garystone1
