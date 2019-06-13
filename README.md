@@ -87,7 +87,7 @@ CREATE TABLE `tbl2` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=10 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci
 
-Step6: Have Fun
+Step7: Have Fun
 
 ---
 MIT License
