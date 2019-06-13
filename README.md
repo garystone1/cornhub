@@ -43,12 +43,15 @@ For 影片播放相關
 Step1 : https://github.com/garystone1/cornhub 輸入該網址即可進入github下載程式碼
 
 分工 :
-
 石詠太: Searching、Google-log-in(失敗，因為網路驗證沒過，沒辦法通過google驗證，因為 https://softwarestudio.2y.idv.tw 
 並非我所擁有的網域，因此網域驗證沒過，資料存取遭拒)、database管理、輸出文件(ReadMe)
+
 景璞:
+
 沈芷萱:
+
 林柏毅:
+
 
 MIT License
 
