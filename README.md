@@ -41,7 +41,10 @@ For 影片播放相關
 
 
 安裝手冊 :
-Step1 : https://github.com/garystone1/cornhub 輸入該網址即可進入github下載程式碼
+Step1: 網站中所有的 code 下載下來
+Step2: 創一個資料夾把檔案都放在裡面
+Step3: 把所有檔案放在下方所指示的資料夾中
+Step4: Have Fun
 
 分工 :
 石詠太: Searching、Google-log-in(失敗，因為網路驗證沒過，沒辦法通過google驗證，因為 https://softwarestudio.2y.idv.tw 
