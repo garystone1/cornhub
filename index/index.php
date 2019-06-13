@@ -739,7 +739,7 @@
       }
     </style>
     <link href="../play/video.css" rel="stylesheet">
-    
+
   </head>
   <body bgcolor=black>
     <div id="upper" z-index=999></div>
@@ -773,7 +773,7 @@
 		 		<a href="../member/login.php?action=signup">SIGN UP</a>
 			</form>
     </div>
-    
+
     <!--(todo) a row of button-->
     <div align='center'>
     <table width=80%>
@@ -787,10 +787,10 @@
   <td width=16%>
     <select class="select-css" onchange="location = this.value;">
       <option value="https://softwarestudio.2y.idv.tw/~cornhub/index/index.php">CATEGORIES</option>
-      <option value="https://softwarestudio.2y.idv.tw/~cornhub/index/index.php?category=1">category_1</option>
-      <option value="https://softwarestudio.2y.idv.tw/~cornhub/index/index.php?category=2">category_2</option>
-      <option value="https://softwarestudio.2y.idv.tw/~cornhub/index/index.php?category=3">category_3</option>
-      <option value="https://softwarestudio.2y.idv.tw/~cornhub/index/index.php?category=4">Unicorn</option>
+      <option value="https://softwarestudio.2y.idv.tw/~cornhub/index/index.php?category=0">corn</option>
+      <option value="https://softwarestudio.2y.idv.tw/~cornhub/index/index.php?category=1">popcorn</option>
+      <option value="https://softwarestudio.2y.idv.tw/~cornhub/index/index.php?category=2">corn soup</option>
+      <option value="https://softwarestudio.2y.idv.tw/~cornhub/index/index.php?category=3">Unicorn(premium)</option>
     </select>
   </td>
   <td width=16%>
@@ -853,6 +853,9 @@
   </div>
   <div id="pages" align="center">
   </div>
+  <div align="center">
+  <a href="https://github.com/garystone1/cornhub">download on github</a>
+</div>
   <script src="preview.js"></script>
   <!--(todo) show account status-->
   </body>
