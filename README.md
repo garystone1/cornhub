@@ -26,7 +26,8 @@ For 會員制
 For 影片播放相關
 
 ../play/video_img-> 影片封面縮圖
-../play/upload-> 影片上傳存放處
+../play/upload-> 影片上傳存放處(我們code中有些範例影片，但由於 github 沒辦法上傳過大的影片，
+所以只傳了幾部作為範例，如需使用可以自行上傳影片)
 ../play/image-> 網頁中的 icon
 ../play/getid3-> 分析影片長度
 ../play/viewvideo.php-> 播放影片
