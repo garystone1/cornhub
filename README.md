@@ -49,7 +49,45 @@ Step3: 創一個資料夾把檔案都放在裡面
 
 Step4: 把所有檔案放在下方所指示的資料夾中
 
-Step5: Have Fun
+Step5: set up your mysql database need to be name as cornhub
+
+Step6: set up tables in database use descrition down below then your website will work
+CREATE TABLE `video` (
+  `name` varchar(45) DEFAULT NULL,
+  `filepath` varchar(45) DEFAULT NULL,
+  `likenum` int(11) DEFAULT NULL,
+  `disnum` int(11) DEFAULT NULL,
+  `view` int(11) DEFAULT NULL,
+  `tag` varchar(45) DEFAULT NULL,
+  `categories` int(11) DEFAULT NULL,
+  `length` float DEFAULT NULL,
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `imgpath` varchar(45) DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  UNIQUE KEY `id_UNIQUE` (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=50 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci
+
+CREATE TABLE `tags` (
+  `name` varchar(20) NOT NULL,
+  `ID` int(20) NOT NULL AUTO_INCREMENT,
+  PRIMARY KEY (`ID`)
+) ENGINE=InnoDB AUTO_INCREMENT=62 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci
+
+
+CREATE TABLE `tbl2` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `username` varchar(45) DEFAULT NULL,
+  `email` varchar(45) DEFAULT NULL,
+  `nickname` varchar(45) DEFAULT NULL,
+  `gender` varchar(45) DEFAULT NULL,
+  `birth` varchar(45) DEFAULT NULL,
+  `hash` varchar(200) DEFAULT NULL,
+  `premium` tinyint(1) DEFAULT '0',
+  `photo` varchar(45) DEFAULT 'upload/default.jpg',
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=10 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci
+
+Step6: Have Fun
 
 ---
 MIT License
