@@ -25,13 +25,30 @@ For 會員制
 
 For 影片播放相關
 
-
-
+../play/video_img-> 影片封面縮圖
+../play/upload-> 影片上傳存放處
+../play/image-> 網頁中的 icon
+../play/getid3-> 分析影片長度
+../play/viewvideo.php-> 播放影片
+../play/viewplus.php-> 增加觀看次數
+../play/video.css-> 播放影片頁面及上傳影片頁面的CSS
+../play/uploadpage.php-> 上傳影片頁面
+../play/upload.php-> 上傳影片到資料庫
+../play/dislike.php-> 影片按讚功能
+../play/like.php-> 影片倒讚功能
+../play/message.php-> 留言板功能
 
 
 安裝手冊 :
 Step1 : https://github.com/garystone1/cornhub 輸入該網址即可進入github下載程式碼
 
+分工 :
+
+石詠太: Searching、Google-log-in(失敗，因為網路驗證沒過，沒辦法通過google驗證，因為 https://softwarestudio.2y.idv.tw 
+並非我所擁有的網域，因此網域驗證沒過，資料存取遭拒)、database管理、輸出文件(ReadMe)
+景璞:
+沈芷萱:
+林柏毅:
 
 MIT License
 
