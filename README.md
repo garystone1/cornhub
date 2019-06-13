@@ -1,6 +1,10 @@
 # cornhub
 
 使用手冊 : 
+Step1: 網站中所有的 code 下載下來
+Step2: 創一個資料夾把檔案都放在裡面
+Step3: 把所有檔案放在下方所指示的資料夾中
+Step4: Have Fun
 
 For 網站主架構 
 
