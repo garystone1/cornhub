@@ -41,10 +41,14 @@ For 影片播放相關
 
 ---
 ## 安裝手冊 :
-Step1 : https://github.com/garystone1/cornhub 輸入該網址即可進入github下載程式碼
+Step1 : https://github.com/garystone1/cornhub 輸入該網址即可進入github下載程式碼\
+
 Step2: 網站中所有的 code 下載下來
+
 Step3: 創一個資料夾把檔案都放在裡面
+
 Step4: 把所有檔案放在下方所指示的資料夾中
+
 Step5: Have Fun
 
 ---
